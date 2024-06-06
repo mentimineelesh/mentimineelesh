@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mentimineelesh
 - 👀 I’m interested in exploring new technologies and building innovative solutions.
 - 🌱 I’m currently learning web development and software testing.
-- 💞️ I’m looking to collaborate on projects related to application development and web development.
+- 😊 I’m looking to collaborate on projects related to application development and web development.
 - 📫 How to reach me mentimi.neelesh@gmail.com.
 
 <!---
